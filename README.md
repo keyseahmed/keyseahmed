@@ -25,6 +25,7 @@ Description: A website showcasing Seattle's best attractions, restaurants, and m
 
 Tech Stack: React, Tailwind CSS, TypeScript, Node.js, PostgreSQL
 Features: Real-time updates, responsive design, and optimized performance.
+
 🏫 Daycare Website
 Description: A user-friendly daycare platform for parents and administrators.
 
