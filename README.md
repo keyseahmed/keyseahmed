@@ -52,4 +52,5 @@ Full-Stack Development
 Cloud Architecture
 Data Science & Engineering
 Security Engineering
+
 📫 Feel free to connect with me via LinkedIn or check out my work on GitHub!
