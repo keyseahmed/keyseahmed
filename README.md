@@ -4,7 +4,7 @@ I’m a Computer Science and Software Engineering graduate from the University o
 
 🌟 About Me 
 
-🎓 Graduated in June 2024 with a GPA of 3.16/4.0.
+🎓 Graduated in June 2024
 🌐 Hands-on experience in Full-Stack Development through internships and personal projects.
 ☁️ Skilled in Cloud Technologies including AWS and Docker.
 🤝 Collaborative team player, experienced in Agile practices and Scrum methodologies.
