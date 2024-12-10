@@ -49,9 +49,9 @@ Coordinated secure access using Cisco AnyConnect and internal tools.
 
 🌱 Interests
 
-Full-Stack Development
-Cloud Architecture
-Data Science & Engineering
-Security Engineering
+Full-Stack Development,
+Cloud Architecture,
+Data Science & Engineering,
+Security Engineering,
 
 📫 Feel free to connect with me via LinkedIn or check out my work on GitHub!
